@@ -1,5 +1,6 @@
 .DS_Store
 *.python-version
+*.java
 /code-backup
 /*/problem-statements
 /*/starter-files
